@@ -1,5 +1,5 @@
 # Machine-Learning
-A collection of my machine learning projects as I learn.
+A collection of my machine learning projects as I learn different algorithms.
 
 ## 1) Premier League Points Predictor - Linear Regression
 This model takes input data of how many goals the team will score and predicts the number of points the team will obtain throughout the season. For this I scraped data of goals scored and points obtained from past 5 seasons and implemented a linear regression model from scratch without the use of a library.
